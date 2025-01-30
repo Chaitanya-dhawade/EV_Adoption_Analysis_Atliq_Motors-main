@@ -14,7 +14,7 @@ The analysis is based on the following data tables:
 - electric_vehicle_sales_by_state: Provides insights on the date, vehicle category, state, EVs sold, and total vehicles sold.
 
 ## Dashboard
-The Power BI Dashboard consists of three key reports:
+The Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2E1N2VhNDMtODFlZi00YzFlLWFkZGUtN2ViMGQ5NmIyMWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) consists of three key reports:
 - Home Page: Provides an overall analysis and summary of EV adoption trends and market performance.
 - Sales by Maker: Detailed insights into EV sales performance across different manufacturers.
 - Sales by State: State-wise analysis of EV sales, adoption rates, and market dynamics.
