@@ -15,8 +15,6 @@ The analysis is based on the following data tables:
 
 ## Dashboard
 The Power BI Dashboard consists of three key reports:
-
-## Home Page:
-Provides an overall analysis and summary of EV adoption trends and market performance.
+- Home Page: Provides an overall analysis and summary of EV adoption trends and market performance.
 - Sales by Maker: Detailed insights into EV sales performance across different manufacturers.
 - Sales by State: State-wise analysis of EV sales, adoption rates, and market dynamics.
